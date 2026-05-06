@@ -65,17 +65,6 @@ Over time, I have helped scale an ATS platform from early-stage usage to support
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=flat)
-
----
 
 ## 🏆 Highlights
 
@@ -100,9 +89,9 @@ Over time, I have helped scale an ATS platform from early-stage usage to support
 
 ## 🤝 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-* Email: [yourmail@example.com](mailto:yourmail@example.com)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/RahulxTDQ)
+* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/rahul-yalamanchili-64939617a/)
+* Email: [rahulkrishnayalamanchili@gmail.com](mailto:rahulkrishnayalamanchili@gmail.com)
 
 ---
 
