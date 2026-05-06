@@ -89,8 +89,8 @@ Over time, I have helped scale an ATS platform from early-stage usage to support
 
 ## 🤝 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/RahulxTDQ)
-* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/rahul-yalamanchili-64939617a/)
+* GitHub: [https://github.com/RahulxTDQ](https://github.com/RahulxTDQ)
+* LinkedIn: [https://linkedin.com/in/rahul-yalamanchili-64939617a/](https://linkedin.com/in/rahul-yalamanchili-64939617a/)
 * Email: [rahulkrishnayalamanchili@gmail.com](mailto:rahulkrishnayalamanchili@gmail.com)
 
 ---
